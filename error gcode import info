@@ -1,0 +1,3 @@
+Hi I note that in Mainsail final version 2.41 when importing gcode files created by simplify3d 5, the data 
+as time printing material Extruder temperature and so on, are not displayed.  Only some features are 
+displayed, while in version simplify3d 4.12 and other programs like ideamaker everything ok
